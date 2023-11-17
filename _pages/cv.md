@@ -11,16 +11,25 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+University of Oklahoma, Norman, OK 		                                     August 2018 - June 2021
+Bachelor of Science in Cognitive Sciences
+* GPA: 3.94/4.0
+* Major GPA: 4.0/4.0
+* Relevant courses: Cognitive Psychology, Cognitive and Perceptual Neuroscience, Neurobiology, Research Method, Mentored Research, Computer Programming, Psychology of Decision Making and Problem Solving
 
-Work experience
+Academic experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Research Technologist                                                                                          February 2023 – Present 
+* Department of Biobehavioral Health, Penn State University 
+  * Advisor: Dr. Elizabeth Losin - Social Cultural Neuroscience Lab 
+  * Projects: an fMRI virtual medical simulation investigating the neural and sociocultural influences of health disparities  
+  * Experiment Design with Presentation(NBS) and PsychoPy
+  * Establishing an fMRI data analysis pipeline (fMRIPrep,  FSL, GLMsingle, via NiPy ecosystem ( Nilearn, Nipype, Nibable) 
+  * fMRI data analysis (??) 
+  * Statistical analysis, multilevel modeling ( R, Python) 
+  * Manuscript preparation 
+  * Assist with setting up a new lab space 
+  * IRB protocol preparation and management
 
 * Fall 2015: Research Assistant
   * Github University
